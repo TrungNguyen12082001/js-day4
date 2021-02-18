@@ -1,3 +1,17 @@
+/**
+ * Khối 1: Nhập vào 3 số nguyên
+ * 
+ * Khối 2: 
+ * B1: Tạo 3 biến lần lượt cho 3 số nguyên soNguyen1, soNguyen2 và soNguyen3
+ * B2: Viết điều kiện để tìm số chẵn và số lẻ
+ * B3: In kết quả     
+ * 
+ * Khối 3: In kết quả số chẵn và số lẻ
+ */
+
+
+
+
 var btnTinh = document.getElementById("btnTinh");
 btnTinh.onclick = function(e){
     e.preventDefault();

@@ -1,3 +1,17 @@
+/**
+ * Khối 1: Chọn đối tượng sử dụng máy 
+ * 
+ * Khối 2: 
+ * B1: Tạo các biến tương ứng với từng người sử dụng máy để đưa ra lời chào phù hợp
+ * B2: Viết điều kiện tương ứng cho lời chào cho từng người sử dụng máy
+ * B3: In kết quả
+ * 
+ * Khối 3: In kết quả lời chào phù hợp
+ */
+
+
+
+
 var btnXacNhan = document.getElementById("btnXacNhan");
 btnXacNhan.onclick = function(e){
     e.preventDefault();

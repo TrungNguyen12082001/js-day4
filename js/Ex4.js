@@ -1,3 +1,17 @@
+/**
+ * Khối 1: Nhập 3 cạnh của tam giác để kiểm tra
+ * 
+ * Khối 2: 
+ * B1: Tạo 3 biến tương ứng cho 3 cạnh mà mình muốn xét
+ * B2: Viết điều kiện cho từng loại tam giác để kiểm tra
+ * B3: In kết quả
+ * 
+ * Khối 3: In kết quả tam giác (nếu thỏa mãn điều kiện!)
+ */
+
+
+
+
 var btnKiemTra = document.getElementById("btnKiemTra");
 btnKiemTra.onclick = function(e){
     e.preventDefault();
